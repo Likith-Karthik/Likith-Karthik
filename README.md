@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Likith
+- 👋 Hi, I’m @Likith-Karthik
 - 👀 I’m interested in coding
 - 🌱 I’m currently in NITT
 - 💞️ I’m looking to collaborate on projects that make me learn
